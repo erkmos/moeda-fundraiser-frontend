@@ -1,0 +1,16 @@
+.link {
+  font-weight: bold;
+  text-decoration: none;
+  color: orange;
+}
+
+.cta {
+  display: flex;
+  justify-content: center;
+  margin: 40px 0 40px 0;
+}
+
+.ctaImage {
+  width: 624px;
+  height: 95px;
+}

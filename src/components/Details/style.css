@@ -1,0 +1,10 @@
+.logoWrap {
+  display: flex;
+  justify-content: center;
+}
+
+.btcSuisseLogo {
+  margin-Top: 20px;
+  width: 240px;
+  height: 55px;
+}
